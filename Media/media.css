@@ -1,0 +1,717 @@
+@media only screen and (max-width:360px) {
+    main{
+        width: 360px;
+        margin-top: 0;
+        max-width: 360px;
+    }
+    .viva{
+        width: 360px;
+    }
+    .part2{
+        width: 360px;
+        height: 2000px;
+    }
+    .part3{
+        width: 360px;
+    }
+    .part4{
+        width: 360px;
+    }
+    .part5{
+        width: 360px;
+    }
+    .part6{
+        width: 360px;
+    }
+    .part7{
+        width: 360px;
+    }
+    .part8{
+        width: 360px;
+    }
+    .part9{
+        width: 360px;
+    }
+    .part10{
+        width: 360px;
+    }
+    .all{
+        width: 1450px;
+        height: 3365px;
+    }
+    .a{
+        display: none;
+    }
+    .btn{
+        width: 200px;
+        height: 200px;
+        border-radius: 35px;
+        border: none;
+        background-color: #384D70;
+        margin-right: 20px;
+        margin-top: 20px;
+    }
+    .box{
+        width: 800px;
+        height: 200px;
+    }
+    .one-btn{
+        display: none;
+    }
+    .one{
+        display: block;
+    }
+    .bony{
+        display: block;
+        width: 1450px;
+    }
+    .img-bac{
+        display: none;
+    }
+    .two{
+        width: 1450px;
+        margin-top: 1500px;
+        margin-left: -600px;
+    }
+    .shadow2{
+        width: 800px;
+        height: 700px;
+    }
+    .shadow{
+        width: 800px;
+        height: 800px;
+        margin-left: -400px;
+        margin-top: -500px;
+        width: 2000px;
+        height: 2000px;
+    }
+    .ud{
+        display: none;
+    }
+    .tick{
+        margin-top: 2400px;
+    }
+    .xexed{
+        margin-top: 1500px;
+    }
+    .would{
+        display: none;
+    }
+    .should{
+        width: 700px;
+        height: 100px;
+        margin-left: -50px;
+        margin-top: 20px;
+    }
+    .btn67{
+        display: flex;
+        width: 100px;
+        height: 80px;
+        margin-left: 25px;
+        margin-top: 35px;
+    }
+    .who{
+        font-size: 200px;
+    }
+    .der{
+        font-size: 200px;
+    }
+    .who2{
+        font-size: 200px;
+    }
+    .fifi{
+        font-size: 200px;
+    }
+    .img-hid{
+        display: inline;
+        position: absolute;
+        margin-top: 80px;
+        margin-left: -100px;
+    }
+    .img-bac2{
+        display: none;
+    }
+    p{
+        font-size: 50px;
+    }
+    .shoxrux{
+        font-size: 80px;
+    }
+    .two-btn{
+        width: 100%;
+        display: block;
+    }
+    .btn-2{
+        width: 1000px;
+        height: 150px;
+        margin-left: 150px;
+        font-size: 70px;
+        border-radius: 30px;
+    }
+    .btn-two{
+        width: 1100px;
+        height: 150px;
+        margin-left: 100px;
+        font-size: 70px;
+        margin-top: 50px;
+        border-radius: 30px;
+    }
+    fieldset{
+        width: 1350px;
+        height: 150px;
+        margin-left: 50px;
+        margin-top: 50px;
+        border-radius: 30px;
+    }
+    .min{
+        font-size: 30px;
+    }
+    .max{
+        font-size: 50px;
+    }
+    .tick{
+        width: 100%;
+        height: 80px;
+    }
+    .text{
+        font-size: 50px;
+    }
+    .vor{
+        display: none;
+    }
+    .fnsr{
+        display: inline;
+        margin-left: 80px;
+        margin-top: 80px;
+        width: 1300px;
+        height: 300px;
+        opacity: 20%;
+    }
+    .span-text{
+        width: 1300px;
+        height: 150px;
+        margin-left: 100px;
+        margin-top: -150px;
+        margin-bottom: 100px;
+    }
+    .iui{
+        display: none;
+    }
+    .area{
+        font-size: 90px;
+    }
+    .problem2{
+        margin-top: 700px;
+        margin-left: -250px;
+        position: relative;
+    }
+    .problem-btn{
+        display: none;
+    }
+    .problem-btn2{
+        width: 0;
+        height: 0;
+    }
+    .nono{
+        display: inline;
+    }
+    .noproblem{
+        display: inline;
+    }
+    
+    .net{
+        display: inline;
+        position: relative;
+    }
+    .icon{
+        margin-top: 50px;
+        margin-left: 50px;
+    }
+    .box2{
+        display: none;
+    }
+    .box3{
+        display: none;
+    }
+    .part3{
+        margin-left: 280px;
+        margin-top: 200px;
+    }
+    .h1-2{
+        width: 1000px;
+        height: 100px;
+        margin-left: 10px;
+    }
+    .how{
+        font-size: 150px;
+    }
+    .all-block{
+        display: block;
+        width: 1500px;
+        height: 4000px;
+        margin-left: -280px;
+        border-radius: 30px;
+        margin-top: 100px;
+    }
+    .kiki{
+        margin-top: 100px;
+        width: 1300px;
+        height: 1500px;
+        margin-left: 70px;
+        border-radius: 50px;
+        background-color: #384D70;
+    }
+    .kio{
+        display: inline;
+        margin-top: 1200px;
+        width: 1300px;
+        height: 1500px;
+        background-color: #384D70;
+        margin-left: 30px;
+        border-radius: 50px;
+    }
+    .box1{
+        margin-top: 200px;
+        width: 1100px;
+        height: 1500px;
+        margin-left: 70px;
+        border-radius: 50px;
+        background-color: #384D70;
+    }
+    .box10{
+        display: inline;
+        margin-top: 200px;
+        width: 1300px;
+        height: 1500px;
+        background-color: #384D70;
+        margin-left: 70px;
+        border-radius: 50px;
+    }
+    .doston{
+        width: 300px;
+        height: 300px;
+        margin-top: 50px;
+        margin-left: 50px;
+    }
+    .img-all{
+        width: 1050px;
+        height: 300px;
+    }
+    .spidershib{
+        font-size: 120px;
+    }
+    .css{
+        width: 1200px;
+        height: 100px;
+        margin-left: 50px;
+        margin-top: 50px;
+    }
+    .css2{
+        margin-top: 240px;
+        margin-left: 50px;
+        width: 1050px;
+        height: 100px;
+    }
+    .opacity{
+        font-size: 50px;
+    }
+    .css3{
+        width: 1050px;
+        height: 400px;
+        margin-top: 100px;
+        margin-left: 50px;
+    }
+    .our{
+        display: none;
+    }
+    .our2{
+        display: inline;
+        width: 1050px;
+        height: 500px;
+    }
+    .nonono{
+        display: inline;
+    }
+    .gif{
+        width: 1300px;
+        height: 100px;
+        margin-left: 70px;
+    }
+    .born{
+        font-size: 180px;
+        color: white;
+    }
+    .gif2{
+        width: 1500px;
+        height: 100px;
+        margin-top: 70px;
+    }
+    .born2{
+        font-size: 80px;
+    }
+    .part4{
+        margin-top: 5000px;
+    }
+    .play{
+        position: absolute;
+        margin-top: -500px;
+    }
+    .fight{
+        width: 1300px;
+        height: 100px;
+        margin-left: 70px;
+    }
+    .earn{
+        font-size: 180px;
+    }
+    .fight2{
+        width: 1500px;
+        height: 100px;
+        margin-top: 70px;
+    }
+    .tokens{
+        font-size: 80px;
+    }
+    .you{
+        margin-top: 300px;
+        position: relative;
+    }
+    .cheater{
+        display: none;
+    }
+    .uj{
+        width: 1400px;
+        height: 2400px;
+    }
+    .center{
+        display: inline;
+        /* position: relative; */
+        width: 1400px;
+        height: 2400px;
+        margin-left: -78px;
+        z-index: 5;
+    }
+    .tube{
+        display: none;
+    }
+    .cheat2{
+        margin-top: 1000px;
+    }
+    .part5{
+        margin-top: 3500px;
+    }
+    .uj{
+        display: inline;
+        position: absolute;
+        width: 1300px;
+        height: 1770px;
+        background-color: #071022;
+        margin-top: -1800px;
+        z-index: 56467;
+    }
+    .juju{
+        display: block;
+        position: absolute;
+        margin-left: -20px;
+        margin-top: -1800px;
+        width: 1300px;
+        height: 1770px;
+        background-color: #071022;
+        z-index: 56467;
+    }
+    .height{
+        width: 1000px;
+        height: 100px;
+        margin-left: 100px;
+        margin-top: 100px;
+    }
+    .height2{
+        width: 1100px;
+        height: 500px;
+        margin-top: 50px;
+    }
+    .height3{
+        width: 1100px;
+        height: 500px;
+        margin-top: 50px;
+    }
+    .height4{
+        width: 1100px;
+        height: 200px;
+        margin-top: 50px;
+    }
+    .fsij{
+        font-size: 100px;
+        color: white;
+    }
+    .class{
+        font-size: 70px;
+        color: white;
+        opacity: 60%;
+    }
+    .dut{
+        display: none;
+    }
+    .challeng{
+        display: none;
+    }
+    .pochemu{
+        display: inline;
+    }
+    .dvsdv{
+        width: 1300px;
+        height: 1500px;
+        margin-top: 50px;
+    }
+    .tiktok{
+        display: none;
+    }
+    .dvsdv2{
+        width: 1300px;
+        height: 1500px;
+        margin-top: 50px;
+    }
+    .part5{
+        display: none;
+    }
+    .part6{
+        margin-top: 3500px;
+    }
+    .dear{
+        width: 1300px;
+        height: 100px;
+        margin-left: 480px;
+        margin-top: -50px;
+    }
+    .road{
+        font-size: 150px;
+    }
+    .big{
+        display: none;
+    }
+    .ya{
+        position: relative;
+    }
+    .voobs{
+        display: inline;
+        width: 1300px;
+        height: 1300px;
+        margin-top: 500px;
+        margin-left: 50px;
+    }
+    .voobs2{
+        display: inline;
+        width: 1300px;
+        height: 1300px;
+        margin-top: 50px;
+        margin-left: 50px;
+    }
+    .ya{
+        display: inline;
+    }
+    .popo{
+        position: absolute;
+        width: 7px;
+        height: 1500px;
+        margin-left: 50px;
+        margin-top: -2400px;
+    }
+    .jusy{
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        margin-left: 45px;
+        margin-top: -900px;
+    }
+    .jusy2{
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        margin-left: 45px;
+        margin-top: -2400px;
+    }
+    .uhu{
+        display: inline;
+    }
+    .kalo{
+        width: 1450px;
+        height: 400px;
+    }
+    .broken{
+        display: none;
+    }
+    .rudi10{
+        display: inline;
+    }
+    .part7{
+        margin-top: 1750px;
+        width: 1450px;
+        height: 2800px;
+    }
+    .many2{
+        width: 1000px;
+        height: 100px;
+    }
+    .team2{
+        font-size: 150px;
+        margin-left: -300px;
+        margin-top: 200px;
+    }
+    .harry2{
+        width: 1000px;
+        height: 1000px;
+        margin-top: 100px;
+    }
+    .yahoo2{
+        width: 800px;
+        height: 100px;
+        margin-left: 100px;
+        margin-top: 50px;
+    }
+    .gbd2{
+        font-size: 80px;
+        margin-left: 200px;
+        margin-top: 50px;
+    }
+    .readb2{
+        width: 800px;
+        height: 100px;
+        margin-left: 100px;
+        margin-top: 50px;
+    }
+    .gdb2{
+        font-size: 50px;
+        margin-left: 110px;
+    }
+    .g481{
+        margin-top: 200px;
+        margin-left: 240px;
+        width: 500px;
+    }
+    .investor{
+        margin-top: 200px;
+    }
+    .partner{
+        width: 800px;
+        height: 200px;
+        margin-left: 350px;
+    }
+    .yunch{
+        display: none;
+    }
+    .yunch2{
+        display: inline;
+        font-size: 150px;
+        color: white;
+        margin-left: 70px;
+    }
+    .btn-team{
+        margin-top: 250px;
+        margin-left: 70px;
+    }
+    .g50{
+        display: none;
+    }
+    .ytfg{
+        display: inline;
+        width: 1300px;
+        height: 300px;
+    }
+    .g48{
+        display: none;
+    }
+    .part8{
+        
+    }
+    .asked{
+        width: 1300px;
+        height: 200px;
+        margin-left: 75px;
+    }
+    .i{
+        display: none;
+    }
+    .i12{
+        display: inline;
+        color: white;
+        font-size: 150px;
+        margin-left: 100px;
+    }
+    .can{
+        margin-top: 300px;
+    }
+    .maoi{
+        width: 1200px;
+        height: 300px;
+        margin-left: 130px;
+    }
+    .images{
+        display: none;
+        font-size: 80px;
+        margin-left: 100px;
+    }
+    .images2{
+        display: inline;
+        font-size: 60px;
+        margin-left: -150px;
+        margin-top: 70px;
+        color: white;
+    }
+    .butt{
+        width: 100px;
+        height: 100px;
+        margin-left: -200px;
+        margin-top: 80px;
+    }
+    .cont{
+        width: 50px;
+        height: 40px;
+        margin-top: 10px;
+    }
+    .part9{
+        margin-top: 1200px;
+        width: 1450px;
+        height: 3000px;
+    }
+    .one1{
+        width: 1300px;
+        height: 200px;
+        margin-left: -450px;
+    }
+    .three3{
+        font-size: 100px;
+    }
+    .three4{
+        font-size: 100px;
+    }
+    .joul{
+        display: none;
+    }
+    .joul2{
+        display: inline;
+        display: block;
+        margin-top: 100px;
+        gap: 100px;
+    }
+    .swg2{
+        display: flex;
+        justify-content: space-around;
+        gap: 50px;
+        margin-top: 100px;
+        margin-left: -400px;
+        width: 300px;
+        height: 300px;
+    }
+    .jhd{
+        width: 1300px;
+        height: 100px;
+        display: block;
+    }
+    .swg3{
+        width: 300px;
+        height: 300px;
+    }
+    .coll{
+        margin-top: 1000px;
+    }
+}
